@@ -1,0 +1,25 @@
+{
+  "name": "ND Booker Portal",
+  "short_name": "ND Booker",
+  "description": "National Distributors Order Booker SFA Application",
+  "start_url": "/#/booker",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/pwa-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
