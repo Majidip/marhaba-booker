@@ -1,22 +1,23 @@
 {
+  "id": "/marhaba-booker/",
   "name": "ND Booker Portal",
   "short_name": "ND Booker",
   "description": "National Distributors Order Booker SFA Application",
-  "start_url": "./index.html#/booker",
-  "scope": "./",
+  "start_url": "/marhaba-booker/",
+  "scope": "/marhaba-booker/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#2563eb",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "./pwa-icon.png",
+      "src": "/marhaba-booker/pwa-icon.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "./pwa-icon.png",
+      "src": "/marhaba-booker/pwa-icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
