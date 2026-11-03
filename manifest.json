@@ -3,7 +3,7 @@
   "name": "ND Booker Portal",
   "short_name": "ND Booker",
   "description": "National Distributors Order Booker SFA Application",
-  "start_url": "/marhaba-booker/",
+  "start_url": "/marhaba-booker/#/booker",
   "scope": "/marhaba-booker/",
   "display": "standalone",
   "background_color": "#0f172a",
